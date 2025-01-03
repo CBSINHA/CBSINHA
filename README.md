@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shashanksinha590@gmail.com**
 
-- ⚡ Fun fact **I yap a lot about video games**
+- ⚡ Fun fact **I yap a lot about video games🗣️🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
