@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/ssinha87560" target="blank"><img src="https://img.shields.io/twitter/follow/ssinha87560?logo=twitter&style=for-the-badge" alt="ssinha87560" /></a> </p>
 
 - 🌱 I’m currently learning **Java, DSA, Unreal Engine**
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cbsinha&" alt="cbsinha" /></p>
 
 - 💬 Ask me about **Linux, C++, Networking, Games**
 
@@ -34,7 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cbsinha&show_icons=true&locale=en&layout=compact" alt="cbsinha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbsinha&show_icons=true&locale=en" alt="cbsinha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cbsinha&" alt="cbsinha" /></p>
-
-<p><img align="center" src="https://codechef-api.vercel.app/heatmap/cbsinha" alt="CodeChef Heatmap"></p>
