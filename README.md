@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbsinha&show_icons=true&locale=en" alt="cbsinha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cbsinha&" alt="cbsinha" /></p>
+
+<p><img align="center" src="https://codechef-api.vercel.app/heatmap/cbsinha" alt="CodeChef Heatmap"></p>
