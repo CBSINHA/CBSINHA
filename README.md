@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ssinha87560" target="blank"><img src="https://img.shields.io/twitter/follow/ssinha87560?logo=twitter&style=for-the-badge" alt="ssinha87560" /></a> </p>
 
-- 🌱 I’m currently learning **Java, DSA, Unreal Engine**
+- 🌱 I’m currently learning **Java, DSA, Cybersecurity**
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cbsinha&" alt="cbsinha" /></p>
 
 - 💬 Ask me about **Linux, C++, Networking, Games**
