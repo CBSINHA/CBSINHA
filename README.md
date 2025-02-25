@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+ ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Shashank Sinha</h1>
 <h3 align="center">A curious tech enthusiast and an aspiring cybersecurity specialist from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbsinha&label=Profile%20views&color=b40e0e&style=flat" alt="cbsinha" /> </p>
