@@ -1,16 +1,16 @@
  ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Shashank Sinha</h1>
-<h3 align="center">A curious tech enthusiast and an aspiring cybersecurity specialist from India</h3>
+<h3 align="center">A curious tech enthusiast, aspiring cybersecurity specialist and a future game Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbsinha&label=Profile%20views&color=b40e0e&style=flat" alt="cbsinha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cbsinha" alt="cbsinha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ssinha87560" target="blank"><img src="https://img.shields.io/twitter/follow/ssinha87560?logo=twitter&style=for-the-badge" alt="ssinha87560" /></a> </p>
 
-- 🌱 I’m currently learning **Java, DSA, Cybersecurity**
+- 🌱 I’m currently learning **Blender and Ethical Hacking**
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cbsinha&" alt="cbsinha" /></p>
 
-- 💬 Ask me about **Linux, C++, Networking, Games**
+- 💬 Ask me about **Linux, C++, Java, Networking, Games**
 
 - 📫 How to reach me **shashanksinha590@gmail.com**
 
